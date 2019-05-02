@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE m_blackListFile>
+<resourceFilesList>
+ <file>
+  <name>~/.local/share/krita/paintoppresets/b)_Basic-2_Opacity_backup_2019-04-15-032843.kpp</name>
+ </file>
+ <file>
+  <name>bundle:///nix/store/ivwq01241hc120xsicwdcjjwy0lmz7qh-krita-4.1.7.101/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-2_Opacity.kpp</name>
+ </file>
+ <file>
+  <name>~/.local/share/krita/paintoppresets/b)_Basic-1_backup_2019-04-17-070012.kpp</name>
+ </file>
+ <file>
+  <name>bundle:///nix/store/ivwq01241hc120xsicwdcjjwy0lmz7qh-krita-4.1.7.101/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-1.kpp</name>
+ </file>
+ <file>
+  <name>~/.local/share/krita/paintoppresets/i)_Wet_Circle_backup_2019-04-21-220605.kpp</name>
+ </file>
+ <file>
+  <name>bundle:///nix/store/ivwq01241hc120xsicwdcjjwy0lmz7qh-krita-4.1.7.101/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Circle.kpp</name>
+ </file>
+ <file>
+  <name>~/.local/share/krita/paintoppresets/i)_Wet_Circle_backup_2019-04-23-062053.kpp</name>
+ </file>
+ <file>
+  <name>~/.local/share/krita/paintoppresets/d)_Ink-4_Pen_Rough_backup_2019-04-30-105136.kpp</name>
+ </file>
+ <file>
+  <name>bundle:///nix/store/ivwq01241hc120xsicwdcjjwy0lmz7qh-krita-4.1.7.101/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-4_Pen_Rough.kpp</name>
+ </file>
+</resourceFilesList>

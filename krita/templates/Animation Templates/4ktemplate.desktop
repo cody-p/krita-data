@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=.icon/4ktemplate.png
+Name=4k template
+Type=Link
+URL[$e]=.source/4ktemplate.kra
+X-KDE-Hidden=false
